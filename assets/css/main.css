@@ -5,7 +5,6 @@
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 */
 
 html, body, div, span, applet, object,
@@ -2609,7 +2608,7 @@ input, select, textarea {
 			.image.left img, .image.right img {
 				width: 100%;
 			}
-
+		
 		.image.center img {
 			
 			width: 50%;
@@ -2618,7 +2617,16 @@ input, select, textarea {
 			margin: 0 auto 2rem auto;
 			top: 0.75rem;
 		}
-
+		
+		.image.center2 img {
+			
+			width: 80%;
+			height: auto;
+			float: center;
+			margin: 0 auto 2rem auto;
+			top: 0.75rem;
+		}
+		
 		.image.left {
 			float: left;
 			margin: 0 2rem 2rem 0;
