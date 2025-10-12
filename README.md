@@ -8,7 +8,7 @@
 
 ## 頁面簡介
 - `index.html`: 首頁 / 關於我 / 人格特質 / 技能 / 專長 / 學歷 / 興趣
-- `experience.html`: 工作經歷 / 專業證照 & 認證
+- `experience.html`: 工作經歷 / 專業證照 & 認證 / 學習經歷
 - `photo1.html`: 攝影日誌(直幅)
 - `photo2.html`: 攝影日誌(橫幅)
 - `drone photography.html`: 空拍作品 / 影片 / 景點介紹
@@ -22,6 +22,7 @@ HTML / CSS / GitHub Pages
 靜宜大學 資料科學暨大數據分析與應用學系 
 
 聯絡方式 : s1120566@o365st.pu.edu.tw
+
 
 
 
